@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0042/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 普曜經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0186.xml
+    old_id: T03n0186
+hash: sha256:8b99c9561651b9a2381da66e91693964c55987b1387ccdd7c55eb3a9d1fc2299
